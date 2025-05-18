@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Електроніка", "shortname": "electronics", "notes": "Lorem ipsum dolor."},
+  {"id": 2, "name": "Книги", "shortname": "books", "notes": ""},
+  {"id": 3, "name": "Одяг", "shortname": "clothes", "notes": ""}
+]

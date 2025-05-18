@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Роман", "shortname": "novel", "description": "Lorem ipsum dolor sit amet.", "price": "250₴"},
+  {"id": 2, "name": "Підручник", "shortname": "textbook", "description": "Lorem ipsum dolor sit amet.", "price": "400₴"},
+  {"id": 3, "name": "Комікс", "shortname": "comic", "description": "Lorem ipsum dolor sit amet.", "price": "180₴"}
+]
